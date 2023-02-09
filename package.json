@@ -1,0 +1,23 @@
+{
+  "name": "async-lading-page",
+  "version": "1.0.0",
+  "description": "Proyecto de asincronismo, en el consumo de una API.",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonHernandez20/Async-lading-page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonHernandez20/Async-lading-page/issues"
+  },
+  "homepage": "https://github.com/JonHernandez20/Async-lading-page#readme",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
